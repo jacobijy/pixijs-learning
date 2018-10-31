@@ -1,0 +1,25 @@
+{
+  "name": "pixijs-learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jacobijy/pixijs-learning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacobijy/pixijs-learning/issues"
+  },
+  "homepage": "https://github.com/jacobijy/pixijs-learning#readme",
+  "dependencies": {
+    "pixi.js": "^4.8.2"
+  },
+  "devDependencies": {
+    "@types/pixi.js": "^4.8.2"
+  }
+}
