@@ -6,7 +6,7 @@ export default class Sprite extends PixiSprite {
         node.addChild(this);
     }
 
-    constructor(texture: Texture) {
+    constructor(texture?: Texture) {
         super(texture);
     }
 
